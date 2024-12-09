@@ -10,7 +10,7 @@ const Hero = () => {
 
         <button
           type="button"
-          onClick={() => window.open("https://github.com/ruiner28", "_blank")}
+          onClick={() => window.open("https://github.com/ruiner28/url-summary", "_blank")}
           className="github_btn"
         >
           <FaGithub className="text-white text-2xl" />
